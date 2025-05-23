@@ -9,6 +9,7 @@ function App() {
       <Button color='success'>Success</Button>
       <Button color='warning'>Warning</Button>
       <Button color='danger'>Danger</Button>
+      <Button color='danger'>nuevo boton</Button>
     </div>
   );
 }
